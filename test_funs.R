@@ -1,3 +1,3 @@
 my_fun <- function(x) {
-    x + 20
+    x + 40
 }
